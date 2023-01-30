@@ -1,0 +1,40 @@
+/* ------------- css ----------- */
+
+#root {
+ display:flex;
+ height: 100%;
+ width: 100%;
+}
+
+/* #sidebar {
+  width: 22rem;
+  background-color: #f7f7f7;
+  border-right: solid 1px #e3e3e3;
+  display: flex;
+  flex-direction: column;
+} */
+
+/* #sidebar nav {
+  flex: 1;
+  overflow: auto;
+  padding-top: 1rem;
+} */
+
+.smmfollows__account_properties{
+  display: flex;
+  justify-content: space-between;
+}
+
+.smmfollows__social_media{
+  display: flex;
+  margin-left: 10px;
+}
+
+.request{
+  display: flex;
+
+}
+
+.product_info{
+  display: flex;
+}
